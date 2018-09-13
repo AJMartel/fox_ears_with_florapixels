@@ -6,5 +6,4 @@ Adafruit's florapixels are super cool because they only need one data wire, and 
 
 They run for about 4 hours on one 9v battery at about 70% lighting intensity (strobing), so keep a spare battery to make it through the whole rave
 
-Details on project are up at: http://ism.creativepony.com/post/45084242563/laithorn-asked-if-id-put-up-schematics-for-my-led
 ![Animated Gif of the blue pulse sequence](https://github.com/AJMartel/fox_ears_with_florapixels/blob/master/GlowyLEDfoxEars.gif)
